@@ -1,0 +1,10 @@
+C:\Users\Данила\Desktop\Спирин\Tyuiu.SavitskiyDN.WindowsForm2\bin\Debug\Tyuiu.SavitskiyDN.WindowsForm2.exe.config
+C:\Users\Данила\Desktop\Спирин\Tyuiu.SavitskiyDN.WindowsForm2\bin\Debug\Tyuiu.SavitskiyDN.WindowsForm2.exe
+C:\Users\Данила\Desktop\Спирин\Tyuiu.SavitskiyDN.WindowsForm2\bin\Debug\Tyuiu.SavitskiyDN.WindowsForm2.pdb
+C:\Users\Данила\Desktop\Спирин\Tyuiu.SavitskiyDN.WindowsForm2\obj\Debug\Tyuiu.SavitskiyDN.WindowsForm2.csproj.AssemblyReference.cache
+C:\Users\Данила\Desktop\Спирин\Tyuiu.SavitskiyDN.WindowsForm2\obj\Debug\Tyuiu.SavitskiyDN.WindowsForm2.Form1.resources
+C:\Users\Данила\Desktop\Спирин\Tyuiu.SavitskiyDN.WindowsForm2\obj\Debug\Tyuiu.SavitskiyDN.WindowsForm2.Properties.Resources.resources
+C:\Users\Данила\Desktop\Спирин\Tyuiu.SavitskiyDN.WindowsForm2\obj\Debug\Tyuiu.SavitskiyDN.WindowsForm2.csproj.GenerateResource.cache
+C:\Users\Данила\Desktop\Спирин\Tyuiu.SavitskiyDN.WindowsForm2\obj\Debug\Tyuiu.SavitskiyDN.WindowsForm2.csproj.CoreCompileInputs.cache
+C:\Users\Данила\Desktop\Спирин\Tyuiu.SavitskiyDN.WindowsForm2\obj\Debug\Tyuiu.SavitskiyDN.WindowsForm2.exe
+C:\Users\Данила\Desktop\Спирин\Tyuiu.SavitskiyDN.WindowsForm2\obj\Debug\Tyuiu.SavitskiyDN.WindowsForm2.pdb
